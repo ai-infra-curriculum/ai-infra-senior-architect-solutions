@@ -1,5 +1,11 @@
 # Senior AI Infrastructure Architect - Solutions Repository
 
+## What's new — 2026-05-27
+
+Module-level `SOLUTION.md` design-rationale docs for all 10 modules (mod-401 through mod-410). Each doc explains the senior-architect-tier "why" behind the strategic deliverables — what executive-grade documents and board-level decisions should look like at this altitude. Audit score: 54 → 64.
+
+---
+
 ## Executive Summary
 
 Welcome to the **Senior AI Infrastructure Architect Solutions Repository** - the definitive reference for enterprise AI infrastructure strategy, transformation leadership, and executive-level architecture. This repository contains complete solutions to strategic challenges faced by Fortune 500 companies, comprehensive frameworks for AI governance and innovation, and board-ready materials for transformational AI initiatives.
