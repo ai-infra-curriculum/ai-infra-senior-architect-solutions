@@ -1,5 +1,9 @@
 # Senior AI Infrastructure Architect - Solutions Repository
 
+<!-- aicg:site-banner -->
+> 🎓 Part of the **[AI Infrastructure Curriculum](https://ai-infra-curriculum.github.io/)** — a free, open-source ladder of role-based AI-infrastructure programs. [Explore the ladder](https://ai-infra-curriculum.github.io/) · [Join the first live cohort](https://ai-infra-curriculum.github.io/junior.html)
+<!-- /aicg:site-banner -->
+
 ## What's new — 2026-05-27
 
 Module-level `SOLUTION.md` design-rationale docs for all 10 modules (mod-401 through mod-410). Each doc explains the senior-architect-tier "why" behind the strategic deliverables — what executive-grade documents and board-level decisions should look like at this altitude. Audit score: 54 → 64.
@@ -684,7 +688,6 @@ This repository represents the **pinnacle of AI infrastructure architecture**. Y
 
 **Ready to transform enterprises with AI infrastructure?**
 **Start with [Project 401: Enterprise AI Transformation Strategy](projects/project-401-transformation-strategy/README.md) →**
-
 
 ---
 
