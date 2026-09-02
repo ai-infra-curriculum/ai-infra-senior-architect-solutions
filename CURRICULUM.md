@@ -12,6 +12,7 @@ engineer-solutions where technical depth lives.
 | Module | Focus | Path |
 |---|---|---|
 | `mod-401-enterprise-ai-strategy` | Enterprise AI Strategy | `modules/mod-401-enterprise-ai-strategy/` |
+| `mod-402-executive-leadership` | Executive Leadership | `modules/mod-402-executive-leadership/` |
 
 ## Shipped (autonomous)
 
