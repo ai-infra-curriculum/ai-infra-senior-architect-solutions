@@ -1,21 +1,6 @@
-# Curriculum Guide
+# Versions
 
-- Track type: solutions
-- Paired learning repo: ai-infra-senior-architect-learning
-- Primary content directories: modules/ + projects/
-
-Modules contain strategic-level exercise rubrics. Cross-references to
-engineer-solutions where technical depth lives.
-
-## Modules
-
-| Module | Focus | Path |
-|---|---|---|
-| `mod-401-enterprise-ai-strategy` | Enterprise AI Strategy | `modules/mod-401-enterprise-ai-strategy/` |
-
-## Shipped (autonomous)
-
-Auto-appended by the AICG runner. One row per verified work item. Edit the rest of the document by hand; this section is additive only.
+## 2026-07
 
 | Date | Work ID | Scope | Title |
 |---|---|---|---|
