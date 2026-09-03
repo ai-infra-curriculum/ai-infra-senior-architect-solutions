@@ -14,6 +14,7 @@ engineer-solutions where technical depth lives.
 | `mod-401-enterprise-ai-strategy` | Enterprise AI Strategy | `modules/mod-401-enterprise-ai-strategy/` |
 | `mod-402-executive-leadership` | Executive Leadership | `modules/mod-402-executive-leadership/` |
 | `mod-403-enterprise-governance` | Enterprise Governance | `modules/mod-403-enterprise-governance/` |
+| `mod-404-innovation-rd` | Innovation R&D | `modules/mod-404-innovation-rd/` |
 
 ## Shipped (autonomous)
 
