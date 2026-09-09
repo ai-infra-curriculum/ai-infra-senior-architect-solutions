@@ -17,6 +17,7 @@ engineer-solutions where technical depth lives.
 | `mod-404-innovation-rd` | Innovation R&D | `modules/mod-404-innovation-rd/` |
 | `mod-405-responsible-ai` | Responsible AI | `modules/mod-405-responsible-ai/` |
 | `mod-406-global-infrastructure` | Global Infrastructure | `modules/mod-406-global-infrastructure/` |
+| `mod-407-strategic-partnerships` | Strategic Partnerships | `modules/mod-407-strategic-partnerships/` |
 
 ## Shipped (autonomous)
 
