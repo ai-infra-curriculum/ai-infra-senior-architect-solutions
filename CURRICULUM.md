@@ -20,6 +20,7 @@ engineer-solutions where technical depth lives.
 | `mod-407-strategic-partnerships` | Strategic Partnerships | `modules/mod-407-strategic-partnerships/` |
 | `mod-408-ma-due-diligence` | M&A Due Diligence | `modules/mod-408-ma-due-diligence/` |
 | `mod-409-thought-leadership` | Thought Leadership | `modules/mod-409-thought-leadership/` |
+| `mod-410-future-of-ai-infra` | Future of AI Infrastructure | `modules/mod-410-future-of-ai-infra/` |
 
 ## Shipped (autonomous)
 
