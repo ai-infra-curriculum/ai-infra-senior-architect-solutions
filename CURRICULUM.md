@@ -22,6 +22,12 @@ engineer-solutions where technical depth lives.
 | `mod-409-thought-leadership` | Thought Leadership | `modules/mod-409-thought-leadership/` |
 | `mod-410-future-of-ai-infra` | Future of AI Infrastructure | `modules/mod-410-future-of-ai-infra/` |
 
+## Projects
+
+| Project | Focus | Path |
+|---|---|---|
+| `project-401-transformation-strategy` | Enterprise AI Transformation Strategy | `projects/project-401-transformation-strategy/` |
+
 ## Shipped (autonomous)
 
 Auto-appended by the AICG runner. One row per verified work item. Edit the rest of the document by hand; this section is additive only.
