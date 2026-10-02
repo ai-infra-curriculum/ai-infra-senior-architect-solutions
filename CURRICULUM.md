@@ -27,6 +27,7 @@ engineer-solutions where technical depth lives.
 | Project | Focus | Path |
 |---|---|---|
 | `project-401-transformation-strategy` | Enterprise AI Transformation Strategy | `projects/project-401-transformation-strategy/` |
+| `project-402-global-ai-platform-architecture` | Global AI Platform Architecture | `projects/project-402-global-ai-platform-architecture/` |
 
 ## Shipped (autonomous)
 
