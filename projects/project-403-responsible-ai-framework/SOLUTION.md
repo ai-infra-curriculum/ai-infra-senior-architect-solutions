@@ -710,7 +710,7 @@ upon by this solution:
   <https://www.eiopa.europa.eu/>
 - **White House OSTP — Blueprint for an AI Bill of Rights** —
   cited as a US-federal policy signal; non-binding.
-  <https://www.whitehouse.gov/ostp/ai-bill-of-rights/>
+  <http://web.archive.org/web/20250119213350/https://www.whitehouse.gov/ostp/ai-bill-of-rights/>
 - **Council of Europe Framework Convention on AI** (2024) —
   cited as an emerging international-treaty signal.
   <https://www.coe.int/en/web/artificial-intelligence>
